@@ -1,5 +1,5 @@
 # GIS-Portfolio
-Collection of GIS, Remote Sensing and Spatial Analysis Projects
+Collection of GIS, Remote Sensing and Spatial Analysis Projects using Ordinary Kriging Approach
 # Soil Organic Carbon Mapping
 
 This project demonstrates the production of Soil Organic Carbon maps using GIS and Remote Sensing techniques.
