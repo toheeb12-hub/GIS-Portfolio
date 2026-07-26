@@ -11,6 +11,6 @@ Software Used:
 
 Study Area:
 Osun State, Nigeria
-<img width="1123" height="1587" alt="osun_ordinary_kriging" src="https://github.com/user-attachments/assets/20fc8e5e-27b3-4334-bafe-0a1cab5f35de" />
-<img width="1587" height="1123" alt="osun_ordinary_kriging_prediction" src="https://github.com/user-attachments/assets/807c1c50-ac54-4400-a6b8-0ec4b0b6bd14" />
-<img width="794" height="1123" alt="DEM_MAP_OSUN" src="https://github.com/user-attachments/assets/cd5ab5a6-c4af-4fcf-afdd-728bb0cd358e" />
+<img width="794" height="1123" alt="DEM" src="https://github.com/user-attachments/assets/c3625728-8ff3-498a-aeab-6e003d5c5b7b" />
+<img width="1587" height="1123" alt="SOIL ORGANIC CARBON MAP" src="https://github.com/user-attachments/assets/ef3bdb5c-ff6f-4fde-8c47-0d5652105c5c" />
+<img width="1587" height="1123" alt="KRIGING_PREDICTION_MAP" src="https://github.com/user-attachments/assets/5a90ba41-80ab-44e5-9780-627c63d7fed7" />
