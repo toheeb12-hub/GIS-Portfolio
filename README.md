@@ -1,5 +1,5 @@
+<img width="3179" height="2245" alt="Oyo Random Forest" src="https://github.com/user-attachments/assets/077edad6-b514-4478-b042-bc9618255160" />
 <img width="9919" height="7019" alt="study area121" src="https://github.com/user-attachments/assets/70da27ec-ea4f-4c3b-a75b-0ff0877334a2" />
-
 <img width="9919" height="7019" alt="new class122" src="https://github.com/user-attachments/assets/0b87e283-616b-45ff-9c04-83e8541b709f" />
 <img width="9919" height="7019" alt="new class121" src="https://github.com/user-attachments/assets/d40542e2-8f0b-483e-9395-86091f62c9bd" />
 <img width="2245" height="1587" alt="atiba" src="https://github.com/user-attachments/assets/3d92b550-e15c-44ca-b0f2-8d36efbe7be9" />
@@ -13,7 +13,6 @@
 <img width="1587" height="2245" alt="MLR 2" src="https://github.com/user-attachments/assets/97def9f6-a220-492f-bc0b-9bc51887c8f2" />
 <img width="2245" height="1587" alt="MLR" src="https://github.com/user-attachments/assets/d471d80a-e9d5-42ae-b1f1-88044aded819" />
 <img width="659" height="645" alt="mlr" src="https://github.com/user-attachments/assets/13ff94ad-1a68-4ef5-8c30-92f9984beb7f" />
-<img width="3179" height="2245" alt="Oyo Random Forest" src="https://github.com/user-attachments/assets/077edad6-b514-4478-b042-bc9618255160" />
 <img width="2245" height="1587" alt="Oyo Random Forest 2" src="https://github.com/user-attachments/assets/37e773b8-7b3f-4fd3-b744-45cb3ab4da2b" />
 <img width="1326" height="575" alt="ee-chart" src="https://github.com/user-attachments/assets/e439f0c8-250f-4f7f-b07a-2ff375224dc4" />
 
